@@ -1,9 +1,9 @@
-# Firefox Security Audit – Basierend auf CIS‑ähnlichen Benchmarks
+# Firefox Security Audit
 
 ## Übersicht
 
 Dieses Projekt zeigt einen Security‑Audit für den Mozilla Firefox Browser.  
-Die Bewertung orientiert sich an Best‑Practices aus Browser‑Härtungsrichtlinien, wie sie auch in CIS Benchmarks für Webbrowser definiert sind.
+Die Bewertung orientiert sich an Best‑Practices aus Browser‑Härtungsrichtlinien.
 
 ## Ziele
 
